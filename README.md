@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->I build enterprise go-to-market systems powered by AI
+-->I build enterprise go-to-market systems powered by AI. Executive with over three decades of experience driving global growth, marketing, technology, and
+AI innovation. Consistent track record in leading enterprise-scale marketing and sales organizations,
+transforming digital businesses, and delivering results for Fortune 500 brands. Recognized for
+building/scaling marketing and sales teams, launching/running global CX product and customer
+programs, and pioneering data-driven solutions for B2B, B2C and B2B2C businesses. Fluent in
+corporate strategy and managing day-to-day operations, with deep expertise across CPG,
+healthcare, technology, financial services, professional services, and enterprise tech.
